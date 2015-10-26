@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NoteBook</string>
+
+
+    <string name="title_activity_main2">新建笔记</string>
+    <string name="new_note">在此输入一条笔记</string>
+    <string name="delete_note">删除笔记</string>
+    <string name="delete_notes">删除所有笔记</string>
+    <string name="dots">...</string>
+    <string name="show_notes">显示所有笔记</string>
+</resources>
